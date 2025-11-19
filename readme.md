@@ -15,4 +15,4 @@ sudo systemctl restart videhub_convertor
 
 sudo systemctl daemon-reload
 sudo systemctl restart videhub_convertor
-sudo systemctl status videhub_convertor
+sudo systemctl status videhub_conver
